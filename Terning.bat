@@ -1,0 +1,1 @@
+"C:\Python39\python.exe" "C:\Users\aalsc\OneDrive\Documents\Python\terning.py"
